@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://бубляж.рф
+Host: https://rptext.ru
 
 # Sitemaps
-Sitemap: https://бубляж.рф/sitemap.xml
+Sitemap: https://rptext.ru/sitemap.xml
