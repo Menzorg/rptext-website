@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://бубляж.рф
+
+# Sitemaps
+Sitemap: https://бубляж.рф/sitemap.xml
