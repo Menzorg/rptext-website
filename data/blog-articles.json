@@ -435,7 +435,7 @@
     },
     {
       "id": 7,
-      "slug": "two-rainger-history",
+      "slug": "two-rangers-history",
       "status": "published",
       "publishedAt": "2025-09-16T18:25:00Z",
       "title": "Туда и обратно: как все начиналось",
@@ -449,13 +449,13 @@
       },
       "media": {
         "featuredImage": {
-          "src": "/images/two-raingers.jpg",
+          "src": "/images/two-rangers.jpg",
           "alt": "Туда и обратно: как все начиналось",
           "width": 1200,
           "height": 630
         },
         "thumbnailImage": {
-          "src": "/images/two-raingers.jpg",
+          "src": "/images/two-rangers.jpg",
           "alt": "Превью туда и обратно: как все начиналось",
           "width": 300,
           "height": 300
@@ -472,13 +472,13 @@
           "ии",
           "днд"
         ],
-        "canonicalUrl": "https://rptext.ru/blog/two-rainger-history",
+        "canonicalUrl": "https://rptext.ru/blog/two-rangers-history",
         "openGraph": {
           "type": "article",
           "title": "Туда и обратно: как все начиналось",
           "description": "RPText рассказывает о том как начинался проект",
-          "image": "/images/two-raingers.jpg",
-          "url": "https://rptext.ru/blog/two-rainger-history"
+          "image": "/images/two-rangers.jpg",
+          "url": "https://rptext.ru/blog/two-rangers-history"
         },
         "structuredData": {
           "@type": "Article",
@@ -488,7 +488,7 @@
             "name": "Команда RPText"
           },
           "datePublished": "2025-06-01T18:25:00Z",
-          "image": "https://rptext.ru/images/two-raingers.jpg"
+          "image": "https://rptext.ru/images/two-rangers.jpg"
         }
       },
       "tags": [
