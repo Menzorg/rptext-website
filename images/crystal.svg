@@ -1,0 +1,81 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient definitions -->
+  <defs>
+    <linearGradient id="crystalGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="crystalGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c084fc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f472b6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="crystalGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d946ef;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Crystal shape with gradient and glow -->
+  <g filter="url(#glow)">
+    <!-- Top facet -->
+    <path d="M 100 20 L 140 70 L 100 60 L 60 70 Z" fill="url(#crystalGradient1)" opacity="0.9"/>
+    
+    <!-- Left facet -->
+    <path d="M 60 70 L 100 60 L 100 140 L 40 160 Z" fill="url(#crystalGradient2)" opacity="0.8"/>
+    
+    <!-- Right facet -->
+    <path d="M 100 60 L 140 70 L 160 160 L 100 140 Z" fill="url(#crystalGradient3)" opacity="0.85"/>
+    
+    <!-- Bottom left facet -->
+    <path d="M 60 70 L 40 160 L 100 180 L 100 140 Z" fill="url(#crystalGradient1)" opacity="0.7"/>
+    
+    <!-- Bottom right facet -->
+    <path d="M 140 70 L 160 160 L 100 180 L 100 140 Z" fill="url(#crystalGradient2)" opacity="0.75"/>
+    
+    <!-- Center highlight -->
+    <path d="M 100 60 L 100 140 L 100 180 Z" fill="#ffffff" opacity="0.2"/>
+    
+    <!-- Edge highlights for shine -->
+    <path d="M 100 20 L 140 70 L 100 60 Z" fill="#ffffff" opacity="0.15"/>
+    <path d="M 100 60 L 140 70 L 100 80 Z" fill="#ffffff" opacity="0.1"/>
+  </g>
+  
+  <!-- Sparkles -->
+  <circle cx="80" cy="50" r="3" fill="#ffffff" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="130" cy="90" r="2" fill="#ffffff" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="110" cy="120" r="2.5" fill="#ffffff" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
