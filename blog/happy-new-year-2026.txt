@@ -1,36 +1,35 @@
 1:"$Sreact.fragment"
-2:I[3704,["7177","static/chunks/app/layout-e5222037236adac0.js"],""]
+2:I[3704,["7177","static/chunks/app/layout-a8f4a87196db5c3e.js"],""]
 3:I[5244,[],""]
 4:I[3866,[],""]
-5:I[6329,["8173","static/chunks/8173-8daa947b925a4397.js","9584","static/chunks/app/blog/layout-5e47bb93d40fbcf6.js"],"default"]
-6:I[8173,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/7970-b6420206a7d6cd3a.js","1064","static/chunks/app/blog/%5BrouteName%5D/page-c1040447baf5acd7.js"],""]
+5:I[6329,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/7970-b6420206a7d6cd3a.js","6329","static/chunks/6329-a743a0ffea1b07d0.js","9584","static/chunks/app/blog/layout-17eb01be7f320819.js"],"default"]
+6:I[8173,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/7970-b6420206a7d6cd3a.js","1064","static/chunks/app/blog/%5BrouteName%5D/page-badf6e2b78c8f819.js"],""]
 8:I[6213,[],"OutletBoundary"]
 a:I[6213,[],"MetadataBoundary"]
 c:I[6213,[],"ViewportBoundary"]
 e:I[4835,[],""]
-:HL["/_next/static/css/73d7b3e61cfd5d58.css","style"]
-:HL["/_next/static/css/4556998b4455382d.css","style"]
-0:{"P":null,"b":"94Y-WIOMq6LyKiRW_D5E5","p":"","c":["","blog","happy-new-year-2026"],"i":false,"f":[[["",{"children":["blog",{"children":[["routeName","happy-new-year-2026","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/73d7b3e61cfd5d58.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap","rel":"stylesheet"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Ruslan+Display&family=Russo+One&family=Saira+Condensed:wght@400;600&family=Seymour+One&family=Alegreya:wght@400;600;700&display=swap","rel":"stylesheet"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap","rel":"stylesheet"}],["$","$L2",null,{"id":"yandex-metrika","strategy":"afterInteractive","children":"\n            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n            m[i].l=1*new Date();\n            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n            (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n            ym(100508050, \"init\", {\n                clickmap:true,\n                trackLinks:true,\n                accurateTrackBounce:true,\n                webvisor:true\n            });\n          "}],["$","noscript",null,{"children":["$","div",null,{"children":["$","img",null,{"src":"https://mc.yandex.ru/watch/100508050","style":{"position":"absolute","left":"-9999px"},"alt":""}]}]}]]}],["$","body",null,{"className":"flex flex-col min-h-screen font-sans","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4556998b4455382d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],[["$","$L5",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"relative w-full bg-[#001A1D] opacity-42 text-white py-12 px-4 md:px-8","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":[["$","div",null,{"className":"border-t border-white/20 my-8"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12","children":[["$","div",null,{"className":"mb-4 bg-[url('/images/logo.png')] bg-contain bg-center bg-no-repeat w-full"}],["$","div",null,{"children":[["$","h3",null,{"className":"font-seymour text-lg md:text-xl mb-4","children":"Документы"}],["$","ul",null,{"className":"space-y-2 font-alegreya text-white/80","children":[["$","li",null,{"children":["$","$L6",null,{"href":"/license","className":"hover:text-white transition-colors","children":"Лицензионное соглашение"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/privacy","className":"hover:text-white transition-colors","children":"Политика обработки персональных данных"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/terms","className":"hover:text-white transition-colors","children":"Пользовательское соглашение"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-seymour text-lg md:text-xl mb-4","children":"Навигация"}],["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 font-alegreya text-white/80","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"children":["$","$L6",null,{"href":"/","className":"hover:text-white transition-colors","children":"Главная"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/scenarios","className":"hover:text-white transition-colors","children":"Сценарии"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/learning","className":"hover:text-white transition-colors","children":"Обучение"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/dialogs","className":"hover:text-white transition-colors","children":"Диалоги"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/workshop","className":"hover:text-white transition-colors","children":"Мастерская"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/grow","className":"hover:text-white transition-colors","children":"Развивайся с нами"}]}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"children":["$","$L6",null,{"href":"/prices","className":"hover:text-white transition-colors","children":"Цены"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/partners","className":"hover:text-white transition-colors","children":"Партнерам"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/about","className":"hover:text-white transition-colors","children":"О нас"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/training","className":"hover:text-white transition-colors","children":"Обучение"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/dnd-solo","className":"hover:text-white transition-colors","children":"DnD Solo"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/simplified-rpg","className":"hover:text-white transition-colors","children":"Упрощенное RPG"}]}]]}]]}]]}]]}],["$","div",null,{"className":"border-t border-white/20 my-8"}],["$","div",null,{"className":"text-center font-alegreya text-white/60 text-sm","children":"© 2025 RPText. Все права защищены."}]]}]}]]]}],{"children":[["routeName","happy-new-year-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","M-FO_qkBmYUCz2Kd5CyIT",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+:HL["/_next/static/css/c8e98a8b416d1613.css","style"]
+0:{"P":null,"b":"fP-VrUROYH20aoESKLRmS","p":"","c":["","blog","happy-new-year-2026"],"i":false,"f":[[["",{"children":["blog",{"children":[["routeName","happy-new-year-2026","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8e98a8b416d1613.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap","rel":"stylesheet"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Ruslan+Display&family=Russo+One&family=Saira+Condensed:wght@400;600&family=Seymour+One&family=Alegreya:wght@400;600;700&display=swap","rel":"stylesheet"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap","rel":"stylesheet"}],["$","$L2",null,{"id":"yandex-metrika","strategy":"afterInteractive","children":"\n            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n            m[i].l=1*new Date();\n            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n            (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n            ym(100508050, \"init\", {\n                clickmap:true,\n                trackLinks:true,\n                accurateTrackBounce:true,\n                webvisor:true\n            });\n          "}],["$","noscript",null,{"children":["$","div",null,{"children":["$","img",null,{"src":"https://mc.yandex.ru/watch/100508050","style":{"position":"absolute","left":"-9999px"},"alt":""}]}]}]]}],["$","body",null,{"className":"flex flex-col min-h-screen font-sans","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,[["$","$L5",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"relative w-full bg-[#001A1D] opacity-42 text-white py-12 px-4 md:px-8 font-vivl-rail","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":[["$","div",null,{"className":"border-t border-white/20 my-8"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12","children":[["$","div",null,{"className":"mb-4 flex items-start","children":["$","img",null,{"src":"/images/logo.webp","alt":"RPText","className":"h-10 w-auto"}]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-vivl-rail text-lg md:text-xl mb-4","children":"Документы"}],["$","ul",null,{"className":"space-y-2 font-vivl-rail text-white/80","children":[["$","li",null,{"children":["$","$L6",null,{"href":"/documents/license","className":"hover:text-white transition-colors","children":"Лицензионное соглашение"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/documents/personal","className":"hover:text-white transition-colors","children":"Политика обработки персональных данных"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/documents/user","className":"hover:text-white transition-colors","children":"Пользовательское соглашение"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-vivl-rail text-lg md:text-xl mb-4","children":"Навигация"}],["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 font-vivl-rail text-white/80","children":[["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"children":["$","$L6",null,{"href":"/","className":"hover:text-white transition-colors","children":"Главная"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/scenarios","className":"hover:text-white transition-colors","children":"Сценарии"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/learning","className":"hover:text-white transition-colors","children":"Обучение"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/dialogs","className":"hover:text-white transition-colors","children":"Диалоги"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/workshop","className":"hover:text-white transition-colors","children":"Мастерская"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/grow","className":"hover:text-white transition-colors","children":"Развивайся с нами"}]}]]}],["$","div",null,{"className":"space-y-2","children":[["$","div",null,{"children":["$","$L6",null,{"href":"/prices","className":"hover:text-white transition-colors","children":"Цены"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/partners","className":"hover:text-white transition-colors","children":"Партнерам"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/about","className":"hover:text-white transition-colors","children":"О нас"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/training","className":"hover:text-white transition-colors","children":"Обучение"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/dnd-solo","className":"hover:text-white transition-colors","children":"DnD Solo"}]}],["$","div",null,{"children":["$","$L6",null,{"href":"/simplified-rpg","className":"hover:text-white transition-colors","children":"Упрощенное RPG"}]}]]}]]}]]}]]}],["$","div",null,{"className":"border-t border-white/20 my-8"}],["$","div",null,{"className":"text-center font-vivl-rail text-white/60 text-sm","children":"© 2025-2026 RPText. Все права защищены."}]]}]}]]]}],{"children":[["routeName","happy-new-year-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","jZ9KxiiR6FKlZGy3ZCWP6",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
 d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/7970-b6420206a7d6cd3a.js","1064","static/chunks/app/blog/%5BrouteName%5D/page-c1040447baf5acd7.js"],"Image"]
-10:I[7748,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/7970-b6420206a7d6cd3a.js","1064","static/chunks/app/blog/%5BrouteName%5D/page-c1040447baf5acd7.js"],"default"]
-12:I[8809,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/7970-b6420206a7d6cd3a.js","1064","static/chunks/app/blog/%5BrouteName%5D/page-c1040447baf5acd7.js"],"default"]
-11:T271c,Год заканчивается, а мы только разгоняемся. У нас накопилось много новостей - от приятных релизов до криминальной хроники из жизни нашего бэкенда. Погнали по порядку.
+f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/7970-b6420206a7d6cd3a.js","1064","static/chunks/app/blog/%5BrouteName%5D/page-badf6e2b78c8f819.js"],"Image"]
+10:I[7748,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/7970-b6420206a7d6cd3a.js","1064","static/chunks/app/blog/%5BrouteName%5D/page-badf6e2b78c8f819.js"],"default"]
+12:I[8809,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/7970-b6420206a7d6cd3a.js","1064","static/chunks/app/blog/%5BrouteName%5D/page-badf6e2b78c8f819.js"],"default"]
+11:T26e9,Год заканчивается, а мы только разгоняемся. У нас накопилось много новостей - от приятных релизов до криминальной хроники из жизни нашего бэкенда. Погнали по порядку.
 
-### 📚 Новый контент: ЛитРПГ и ЛОР
+### Новый контент: ЛитРПГ и ЛОР
 
 Мы наконец-то начали серьезную работу над лором вселенной. И не одни - к команде присоединился профессиональный писатель. Это даст буст к качеству историй. Вместе мы перетряхнём структуру всех существующих сценариев. Помимо этого мы добавили кучу механик и появился адаптивный ГМ, который подстраивается под контекст и создает уникальную атмосферу под каждый сюжет.
 
 **Свежий завоз новых сценариев в жанре ЛитРПГ:**
 
-- 💀 **Эволюция Монстра.** Классика жанра, но с нюансом. Вы не герой, вы - скелет 1-го уровня в заброшенном некрополе. Фишка: способность "Пожиратель Сущности". Жрите мобов, качайте скиллы, отращивайте плоть и станьте Личем раньше, чем в данж завалятся "Светлые Герои" для зачистки.
+- **Эволюция Монстра.** Классика жанра, но с нюансом. Вы не герой, вы - скелет 1-го уровня в заброшенном некрополе. Фишка: способность "Пожиратель Сущности". Жрите мобов, качайте скиллы, отращивайте плоть и станьте Личем раньше, чем в данж завалятся "Светлые Герои" для зачистки.
     
-- ⛏ **Тюрьма Элизиум.** Киберпанк-каторги. Вы - заключенный №404, отправленный в VR добывать ресурсы. Задача: выжить в шахтах, не отхватить от банд и найти мифический квест "Амнистия", который (по слухам) выпускает на свободу в реале.
+- **Тюрьма Элизиум.** Киберпанк-каторги. Вы - заключенный №404, отправленный в VR добывать ресурсы. Задача: выжить в шахтах, не отхватить от банд и найти мифический квест "Амнистия", который (по слухам) выпускает на свободу в реале.
     
-- ☢️ **Нулевой Район.** Постап и Система. Мир поделен на безопасные зоны и охотничьи угодья. Вы - "мусорщик", живущий вылазками за Стену. Ваша находка, артефакт "Семя Хранителя", может перевернуть баланс сил.
+- **Нулевой Район.** Постап и Система. Мир поделен на безопасные зоны и охотничьи угодья. Вы - "мусорщик", живущий вылазками за Стену. Ваша находка, артефакт "Семя Хранителя", может перевернуть баланс сил.
     
 
-**🎄 Специальные новогодние сценарии от нашего писателя:**
+**Специальные новогодние сценарии от нашего писателя:**
 
 - **Страна Деда Мороза.** Ламповое приключение. Таверна "Тёплый очаг", мандарины, хвоя... и пропавший Дед Мороз. Придется топать через Зачарованный Лес и разбираться с духом проказ в Ледяной пещере. Данный сценарий можно найти по жанру Фэнтези -> Славянское фэнтези
 
@@ -40,7 +39,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 ---
 
-### 🛠 Техническая "кухня" и хроники выживания
+### Техническая "кухня" и хроники выживания
 
 Тут у нас случился настоящий триллер.
 
@@ -48,7 +47,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 Во-вторых, **нас пытались взломать**. Впервые. Благодаря системе логов мы быстро нашли дыру и залатали её. Но хакеры оказались настойчивыми - залезли снова и даже успели повесить нам несколько майнеров криптовалюты. К счастью, у нас есть машина времени под названием "Бэкап". Откатились, вычистили грязь, потратили целый день на аудит безопасности, но теперь система надежна как швейцарские часы (мы надеемся)
 
-### 📊 Цифры и Веб-клиент
+### Цифры и Веб-клиент
 
 В нашего бота сыграло уже **4200 человек**. Неизбежно стремимся к красивой цифре в 5000. Спасибо вам огромное, что играете, тестируете и пинаете нас фидбеком. Это мотивирует не бросать код в 3 часа ночи.
 
@@ -56,7 +55,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 **Планы на будущее:** Под капотом готовим переход на **мультиагентную систему**. Если по-простому: игра станет глубже, вариативнее, а NPC умнее. Это будет совершенно другой уровень геймплея, а под руководством нашего писателя вероятно ещё и захватывающе интересно. 
 
-### 🚀 Эксперименты: Квесты а-ля "Космические Рейнджеры"
+### Эксперименты: Квесты а-ля "Космические Рейнджеры"
 
 Запустили в тестовом режиме новый тип игр - текстовые квесты. Те, кто помнит Космических рейнджеров, поймут: разнообразная математика, зачатки процедурной генерации, рандом и в перспективе встроенные мини-игры. Сейчас полируем баланс, прежде, чем выпускать на всех.
 
@@ -64,7 +63,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 ---
 
-### 📢 Ищем человека в команду
+### Ищем человека в команду
 
 Мы - технари. Нам проще написать тысячу строк кода, чем один красивый пост или найти партнерку. Нам не хватает рук и глаз в медиа-пространстве.
 
@@ -80,7 +79,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 **От аналитика.** Я тоже поздравляю всех вас с Новым годом. Желаю, чтобы следующий год был интересный и богатый на позитивные события. Мне очень нравится этот проект и мы будем стараться делать его лучше для всех вас каждый день. 
 
-**Всех с наступающим Новым годом! 🎄 Пусть в 2025-м у вас будут только удачные дайсы, а баги обходят стороной.**
+**Всех с наступающим Новым годом! Пусть в 2025-м у вас будут только удачные дайсы, а баги обходят стороной.**
 
 Остаемся на связи!
 
@@ -91,22 +90,22 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 
 
-13:T271c,Год заканчивается, а мы только разгоняемся. У нас накопилось много новостей - от приятных релизов до криминальной хроники из жизни нашего бэкенда. Погнали по порядку.
+13:T26e9,Год заканчивается, а мы только разгоняемся. У нас накопилось много новостей - от приятных релизов до криминальной хроники из жизни нашего бэкенда. Погнали по порядку.
 
-### 📚 Новый контент: ЛитРПГ и ЛОР
+### Новый контент: ЛитРПГ и ЛОР
 
 Мы наконец-то начали серьезную работу над лором вселенной. И не одни - к команде присоединился профессиональный писатель. Это даст буст к качеству историй. Вместе мы перетряхнём структуру всех существующих сценариев. Помимо этого мы добавили кучу механик и появился адаптивный ГМ, который подстраивается под контекст и создает уникальную атмосферу под каждый сюжет.
 
 **Свежий завоз новых сценариев в жанре ЛитРПГ:**
 
-- 💀 **Эволюция Монстра.** Классика жанра, но с нюансом. Вы не герой, вы - скелет 1-го уровня в заброшенном некрополе. Фишка: способность "Пожиратель Сущности". Жрите мобов, качайте скиллы, отращивайте плоть и станьте Личем раньше, чем в данж завалятся "Светлые Герои" для зачистки.
+- **Эволюция Монстра.** Классика жанра, но с нюансом. Вы не герой, вы - скелет 1-го уровня в заброшенном некрополе. Фишка: способность "Пожиратель Сущности". Жрите мобов, качайте скиллы, отращивайте плоть и станьте Личем раньше, чем в данж завалятся "Светлые Герои" для зачистки.
     
-- ⛏ **Тюрьма Элизиум.** Киберпанк-каторги. Вы - заключенный №404, отправленный в VR добывать ресурсы. Задача: выжить в шахтах, не отхватить от банд и найти мифический квест "Амнистия", который (по слухам) выпускает на свободу в реале.
+- **Тюрьма Элизиум.** Киберпанк-каторги. Вы - заключенный №404, отправленный в VR добывать ресурсы. Задача: выжить в шахтах, не отхватить от банд и найти мифический квест "Амнистия", который (по слухам) выпускает на свободу в реале.
     
-- ☢️ **Нулевой Район.** Постап и Система. Мир поделен на безопасные зоны и охотничьи угодья. Вы - "мусорщик", живущий вылазками за Стену. Ваша находка, артефакт "Семя Хранителя", может перевернуть баланс сил.
+- **Нулевой Район.** Постап и Система. Мир поделен на безопасные зоны и охотничьи угодья. Вы - "мусорщик", живущий вылазками за Стену. Ваша находка, артефакт "Семя Хранителя", может перевернуть баланс сил.
     
 
-**🎄 Специальные новогодние сценарии от нашего писателя:**
+**Специальные новогодние сценарии от нашего писателя:**
 
 - **Страна Деда Мороза.** Ламповое приключение. Таверна "Тёплый очаг", мандарины, хвоя... и пропавший Дед Мороз. Придется топать через Зачарованный Лес и разбираться с духом проказ в Ледяной пещере. Данный сценарий можно найти по жанру Фэнтези -> Славянское фэнтези
 
@@ -116,7 +115,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 ---
 
-### 🛠 Техническая "кухня" и хроники выживания
+### Техническая "кухня" и хроники выживания
 
 Тут у нас случился настоящий триллер.
 
@@ -124,7 +123,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 Во-вторых, **нас пытались взломать**. Впервые. Благодаря системе логов мы быстро нашли дыру и залатали её. Но хакеры оказались настойчивыми - залезли снова и даже успели повесить нам несколько майнеров криптовалюты. К счастью, у нас есть машина времени под названием "Бэкап". Откатились, вычистили грязь, потратили целый день на аудит безопасности, но теперь система надежна как швейцарские часы (мы надеемся)
 
-### 📊 Цифры и Веб-клиент
+### Цифры и Веб-клиент
 
 В нашего бота сыграло уже **4200 человек**. Неизбежно стремимся к красивой цифре в 5000. Спасибо вам огромное, что играете, тестируете и пинаете нас фидбеком. Это мотивирует не бросать код в 3 часа ночи.
 
@@ -132,7 +131,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 **Планы на будущее:** Под капотом готовим переход на **мультиагентную систему**. Если по-простому: игра станет глубже, вариативнее, а NPC умнее. Это будет совершенно другой уровень геймплея, а под руководством нашего писателя вероятно ещё и захватывающе интересно. 
 
-### 🚀 Эксперименты: Квесты а-ля "Космические Рейнджеры"
+### Эксперименты: Квесты а-ля "Космические Рейнджеры"
 
 Запустили в тестовом режиме новый тип игр - текстовые квесты. Те, кто помнит Космических рейнджеров, поймут: разнообразная математика, зачатки процедурной генерации, рандом и в перспективе встроенные мини-игры. Сейчас полируем баланс, прежде, чем выпускать на всех.
 
@@ -140,7 +139,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 ---
 
-### 📢 Ищем человека в команду
+### Ищем человека в команду
 
 Мы - технари. Нам проще написать тысячу строк кода, чем один красивый пост или найти партнерку. Нам не хватает рук и глаз в медиа-пространстве.
 
@@ -156,7 +155,7 @@ f:I[7970,["8173","static/chunks/8173-8daa947b925a4397.js","7970","static/chunks/
 
 **От аналитика.** Я тоже поздравляю всех вас с Новым годом. Желаю, чтобы следующий год был интересный и богатый на позитивные события. Мне очень нравится этот проект и мы будем стараться делать его лучше для всех вас каждый день. 
 
-**Всех с наступающим Новым годом! 🎄 Пусть в 2025-м у вас будут только удачные дайсы, а баги обходят стороной.**
+**Всех с наступающим Новым годом! Пусть в 2025-м у вас будут только удачные дайсы, а баги обходят стороной.**
 
 Остаемся на связи!
 
